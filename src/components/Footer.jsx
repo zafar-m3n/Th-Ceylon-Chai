@@ -5,7 +5,7 @@ import { siteData } from "../data/site";
 import Container from "./Container";
 import Button from "./Button";
 import { buildWhatsAppUrl, buildOrderMessage } from "../utils/whatsapp";
-import logoWhite from "../assets/images/logoWhite.png";
+import logoWhite from "../assets/images/logoWhite.webp";
 
 const Footer = () => {
   const handleWhatsAppClick = () => {
@@ -165,7 +165,12 @@ const Footer = () => {
             <p className="text-gray-400 text-sm">Copyright 2025. All Rights Reserved.</p>
             <p className="text-gray-400 text-sm">
               Made with ❤️ for tea lovers worldwide by
-              <a href="https://zafarm3n.xyz" target="_blank" rel="noopener noreferrer" className="text-orange-500 hover:underline">
+              <a
+                href="https://zafarm3n.xyz"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-orange-500 hover:underline"
+              >
                 {" "}
                 zafar.m3n
               </a>

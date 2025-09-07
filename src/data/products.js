@@ -1,79 +1,79 @@
 // Existing imports…
-import Passion1 from "../assets/products/passion1.jpg";
-import Passion2 from "../assets/products/passion2.jpg";
-import Passion3 from "../assets/products/passion3.jpg";
-import Pineapple1 from "../assets/products/pineapple1.jpg";
-import Pineapple2 from "../assets/products/pineapple2.jpg";
-import Pineapple3 from "../assets/products/pineapple3.jpg";
-import Lemon1 from "../assets/products/lemon1.jpg";
-import Lemon2 from "../assets/products/lemon2.jpg";
-import Lemon3 from "../assets/products/lemon3.jpg";
-import Soursop1 from "../assets/products/soursop1.jpg";
-import Soursop2 from "../assets/products/soursop2.jpg";
-import Soursop3 from "../assets/products/soursop3.jpg";
-import Rose1 from "../assets/products/rose1.jpg";
-import Rose2 from "../assets/products/rose2.jpg";
-import Rose3 from "../assets/products/rose3.jpg";
-import PassionMint1 from "../assets/products/passionmint1.jpg";
-import PassionMint2 from "../assets/products/passionmint2.jpg";
-import PassionMint3 from "../assets/products/passionmint3.jpg";
+import Passion1 from "../assets/products/passion1.webp";
+import Passion2 from "../assets/products/passion2.webp";
+import Passion3 from "../assets/products/passion3.webp";
+import Pineapple1 from "../assets/products/pineapple1.webp";
+import Pineapple2 from "../assets/products/pineapple2.webp";
+import Pineapple3 from "../assets/products/pineapple3.webp";
+import Lemon1 from "../assets/products/lemon1.webp";
+import Lemon2 from "../assets/products/lemon2.webp";
+import Lemon3 from "../assets/products/lemon3.webp";
+import Soursop1 from "../assets/products/soursop1.webp";
+import Soursop2 from "../assets/products/soursop2.webp";
+import Soursop3 from "../assets/products/soursop3.webp";
+import Rose1 from "../assets/products/rose1.webp";
+import Rose2 from "../assets/products/rose2.webp";
+import Rose3 from "../assets/products/rose3.webp";
+import PassionMint1 from "../assets/products/passionmint1.webp";
+import PassionMint2 from "../assets/products/passionmint2.webp";
+import PassionMint3 from "../assets/products/passionmint3.webp";
 
 // NEW imports (3 per product) for items 7–20
-import Blueberry1 from "../assets/products/blueberry1.jpg";
-import Blueberry2 from "../assets/products/blueberry2.jpg";
-import Blueberry3 from "../assets/products/blueberry3.jpg";
+import Blueberry1 from "../assets/products/blueberry1.webp";
+import Blueberry2 from "../assets/products/blueberry2.webp";
+import Blueberry3 from "../assets/products/blueberry3.webp";
 
-import Strawberry1 from "../assets/products/strawberry1.jpg";
-import Strawberry2 from "../assets/products/strawberry2.jpg";
-import Strawberry3 from "../assets/products/strawberry3.jpg";
+import Strawberry1 from "../assets/products/strawberry1.webp";
+import Strawberry2 from "../assets/products/strawberry2.webp";
+import Strawberry3 from "../assets/products/strawberry3.webp";
 
-import Mango1 from "../assets/products/mango1.jpg";
-import Mango2 from "../assets/products/mango2.jpg";
-import Mango3 from "../assets/products/mango3.jpg";
+import Mango1 from "../assets/products/mango1.webp";
+import Mango2 from "../assets/products/mango2.webp";
+import Mango3 from "../assets/products/mango3.webp";
 
-import Peach1 from "../assets/products/peach1.jpg";
-import Peach2 from "../assets/products/peach2.jpg";
-import Peach3 from "../assets/products/peach3.jpg";
+import Peach1 from "../assets/products/peach1.webp";
+import Peach2 from "../assets/products/peach2.webp";
+import Peach3 from "../assets/products/peach3.webp";
 
-import SlimRose1 from "../assets/products/slimrose1.jpg";
-import SlimRose2 from "../assets/products/slimrose2.jpg";
-import SlimRose3 from "../assets/products/slimrose3.jpg";
+import SlimRose1 from "../assets/products/slimrose1.webp";
+import SlimRose2 from "../assets/products/slimrose2.webp";
+import SlimRose3 from "../assets/products/slimrose3.webp";
 
-import Cardamom1 from "../assets/products/cardamom1.jpg";
-import Cardamom2 from "../assets/products/cardamom2.jpg";
-import Cardamom3 from "../assets/products/cardamom3.jpg";
+import Cardamom1 from "../assets/products/cardamom1.webp";
+import Cardamom2 from "../assets/products/cardamom2.webp";
+import Cardamom3 from "../assets/products/cardamom3.webp";
 
-import KesarChai1 from "../assets/products/kesar1.jpg";
-import KesarChai2 from "../assets/products/kesar2.jpg";
-import KesarChai3 from "../assets/products/kesar3.jpg";
+import KesarChai1 from "../assets/products/kesar1.webp";
+import KesarChai2 from "../assets/products/kesar2.webp";
+import KesarChai3 from "../assets/products/kesar3.webp";
 
-import ChaiMasala1 from "../assets/products/masala1.jpg";
-import ChaiMasala2 from "../assets/products/masala2.jpg";
-import ChaiMasala3 from "../assets/products/masala3.jpg";
+import ChaiMasala1 from "../assets/products/masala1.webp";
+import ChaiMasala2 from "../assets/products/masala2.webp";
+import ChaiMasala3 from "../assets/products/masala3.webp";
 
-import ChaiKarak1 from "../assets/products/karak1.jpg";
-import ChaiKarak2 from "../assets/products/karak2.jpg";
-import ChaiKarak3 from "../assets/products/karak3.jpg";
+import ChaiKarak1 from "../assets/products/karak1.webp";
+import ChaiKarak2 from "../assets/products/karak2.webp";
+import ChaiKarak3 from "../assets/products/karak3.webp";
 
-import Energy1 from "../assets/products/energy1.jpg";
-import Energy2 from "../assets/products/energy2.jpg";
-import Energy3 from "../assets/products/energy3.jpg";
+import Energy1 from "../assets/products/energy1.webp";
+import Energy2 from "../assets/products/energy2.webp";
+import Energy3 from "../assets/products/energy3.webp";
 
-import MoroccanMint1 from "../assets/products/moroccanmint1.jpg";
-import MoroccanMint2 from "../assets/products/moroccanmint2.jpg";
-import MoroccanMint3 from "../assets/products/moroccanmint3.jpg";
+import MoroccanMint1 from "../assets/products/moroccanmint1.webp";
+import MoroccanMint2 from "../assets/products/moroccanmint2.webp";
+import MoroccanMint3 from "../assets/products/moroccanmint3.webp";
 
-import GreenTea1 from "../assets/products/green1.jpg";
-import GreenTea2 from "../assets/products/green2.jpg";
-import GreenTea3 from "../assets/products/green3.jpg";
+import GreenTea1 from "../assets/products/green1.webp";
+import GreenTea2 from "../assets/products/green2.webp";
+import GreenTea3 from "../assets/products/green3.webp";
 
-import Chocolate1 from "../assets/products/chocolate1.jpg";
-import Chocolate2 from "../assets/products/chocolate2.jpg";
-import Chocolate3 from "../assets/products/chocolate3.jpg";
+import Chocolate1 from "../assets/products/chocolate1.webp";
+import Chocolate2 from "../assets/products/chocolate2.webp";
+import Chocolate3 from "../assets/products/chocolate3.webp";
 
-import Caramel1 from "../assets/products/caramel1.jpg";
-import Caramel2 from "../assets/products/caramel2.jpg";
-import Caramel3 from "../assets/products/caramel3.jpg";
+import Caramel1 from "../assets/products/caramel1.webp";
+import Caramel2 from "../assets/products/caramel2.webp";
+import Caramel3 from "../assets/products/caramel3.webp";
 
 export const products = [
   // Fruity

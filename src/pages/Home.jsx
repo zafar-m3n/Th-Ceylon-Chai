@@ -1,5 +1,5 @@
 import React from "react";
-import HeroBg from "../assets/images/hero1.jpg";
+import HeroBg from "../assets/images/hero1.webp";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { Icon } from "@iconify/react";
@@ -10,11 +10,11 @@ import ProductCard from "../components/ProductCard";
 import BestSellersCarousel from "../components/BestSellersCarousel";
 import TestimonialsCarousel from "../components/TestimonialsCarousel";
 import { products } from "../data/products";
-import Hero2 from "../assets/images/hero2.jpg";
-import Fruity from "../assets/images/fruitytea.jpg";
-import Spiced from "../assets/images/spicetea.jpg";
-import Energy from "../assets/images/energytea.jpg";
-import Choco from "../assets/images/chocotea.jpg";
+import Hero2 from "../assets/images/hero2.webp";
+import Fruity from "../assets/images/fruitytea.webp";
+import Spiced from "../assets/images/spicetea.webp";
+import Energy from "../assets/images/energytea.webp";
+import Choco from "../assets/images/chocotea.webp";
 
 const Home = () => {
   // Best sellers - mix from different categories

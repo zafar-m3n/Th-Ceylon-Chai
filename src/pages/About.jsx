@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Icon } from "@iconify/react";
 import Section from "../components/Section";
-import Hero3 from "../assets/images/hero3.jpg";
+import Hero3 from "../assets/images/hero3.webp";
 import Container from "../components/Container";
 import Button from "../components/Button";
 import { siteData } from "../data/site";

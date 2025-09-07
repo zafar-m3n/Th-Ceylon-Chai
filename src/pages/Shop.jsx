@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo } from "react";
 import { useSearchParams } from "react-router-dom";
-import shopBgImage from "../assets/images/shop.jpg";
+import shopBgImage from "../assets/images/shop.webp";
 import ProductCard from "../components/ProductCard";
 import { motion } from "framer-motion";
 import { Icon } from "@iconify/react";

@@ -11,7 +11,7 @@ import WhatsAppButton from "../components/WhatsAppButton";
 import { siteData } from "../data/site";
 import { buildWhatsAppUrl, buildContactMessage } from "../utils/whatsapp";
 import { formatPhoneNumber } from "../utils/format";
-import ContactImage from "../assets/images/contact.jpg";
+import ContactImage from "../assets/images/contact.webp";
 
 const Contact = () => {
   const [formData, setFormData] = useState({

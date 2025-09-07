@@ -10,8 +10,8 @@ import Textarea from "../components/Textarea";
 import Button from "../components/Button";
 import { siteData } from "../data/site";
 import { buildWhatsAppUrl, buildSellWithUsMessage } from "../utils/whatsapp";
-import Seller from "../assets/images/sellers.jpg";
-import Partner from "../assets/images/partners.jpg";
+import Seller from "../assets/images/sellers.webp";
+import Partner from "../assets/images/partners.webp";
 
 const SellWithUs = () => {
   const [formData, setFormData] = useState({

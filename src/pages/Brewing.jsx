@@ -5,9 +5,9 @@ import SectionHeader from "../components/SectionHeader";
 import Container from "../components/Container";
 import Section from "../components/Section";
 import Button from "../components/Button";
-import MilkTea from "../assets/images/milktea.jpg";
-import IcedTea from "../assets/images/icedtea.jpg";
-import GreenTea from "../assets/images/greentea.jpg";
+import MilkTea from "../assets/images/milktea.webp";
+import IcedTea from "../assets/images/icedtea.webp";
+import GreenTea from "../assets/images/greentea.webp";
 
 const Brewing = () => {
   const brewingMethods = [
