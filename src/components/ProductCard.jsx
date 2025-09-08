@@ -28,7 +28,7 @@ const ProductCard = ({ product }) => {
 
   const handleWhatsAppOrder = () => {
     const message = `Hi T&H, I'd like to order: ${name}. Could you share price & availability?`;
-    const whatsappUrl = `https://wa.me/94777634121?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/94777490000?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, "_blank", "noopener,noreferrer");
   };
 
