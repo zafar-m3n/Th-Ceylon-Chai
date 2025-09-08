@@ -121,7 +121,7 @@ const ProductCard = ({ product }) => {
               aria-label={`Order ${name} via WhatsApp`}
             >
               <Icon icon="mdi:whatsapp" className="h-4 w-4" />
-              Order
+              Inquire
             </button>
 
             <Link
